@@ -1,0 +1,9 @@
+.title-text-container p{
+    font-size: 35px;
+    color: gray;
+}
+
+.title-text-container{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}

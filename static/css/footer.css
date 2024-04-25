@@ -1,0 +1,12 @@
+#footer{
+    background-color: violet;
+    padding-left: 152px;
+    margin-top: 147px;
+}
+
+.footer-text{
+    margin-top: 80px;
+    margin-bottom: 200px;
+    font-size: 22px;
+    color: gray;
+}

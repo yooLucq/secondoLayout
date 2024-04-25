@@ -1,0 +1,22 @@
+.list-number h2{
+    font-size: 70px;
+    color: gray
+}
+
+.list-number {
+    margin-top: 104px;
+}
+
+hr{
+    border: 1px solid gray;
+}
+
+.text-container p{
+    font-size: 22px;
+    color: gray;
+}
+
+.text-container a{
+    font-size: 22px;
+    color: gray;
+}

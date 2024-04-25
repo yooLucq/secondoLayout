@@ -1,0 +1,14 @@
+.button{
+    background-color: #240202;
+    height: 78px;
+    padding: 14px 33px;
+    background-image: url("right-arrow.svg");
+    background-repeat: no-repeat;
+    background-position: 90% center;
+    margin-bottom: 119px;
+}
+
+.button a{
+    color: white;
+    font-size: 35px;
+}
